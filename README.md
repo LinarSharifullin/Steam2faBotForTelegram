@@ -1,4 +1,5 @@
 # Installation
+<sup><b>This program not associated with Valve Corp</b></sup>
 1. Specify `telegram_bot_token` and `admin_ids` in `files/config.json`
 2. Create db, just run `db_interaction.py` from console
 3. Run `main.py`
